@@ -1,6 +1,7 @@
-Here is the complete README file for your project:
+Here’s the correctly formatted README file in YAML syntax for your Git repository, similar to the previous tasks:
 
-```markdown
+```yaml
+---
 # SMS Spam Detection Using Machine Learning
 
 ## Overview
@@ -9,7 +10,7 @@ This project implements an **SMS Spam Detection System** using **Natural Languag
 
 ## Dataset
 
-The dataset used in this project is an **SMS Spam Collection** stored in an Excel file. The dataset contains two columns: 
+The dataset used in this project is an **SMS Spam Collection** stored in an Excel file. The dataset contains two columns:
 - `v1` (label - "ham" or "spam")
 - `v2` (SMS message)
 
@@ -83,6 +84,6 @@ SVM Prediction: Ham
 ## Conclusion
 
 This project successfully implements an SMS Spam Detection system using machine learning techniques. It uses **Naive Bayes** and **SVM** for classification, achieving good results for detecting spam messages. The system can be further improved by using additional techniques like deep learning or fine-tuning hyperparameters for even better performance.
-``` 
+```
 
-This complete README file should provide a detailed overview of your project, including instructions, requirements, and examples for use.
+This format should be compatible for use in a Git repository, with proper markdown structure. You can copy this directly to a `README.md` file and it will display correctly in GitHub or other platforms that support markdown.
