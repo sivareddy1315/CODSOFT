@@ -1,5 +1,3 @@
-Here’s the correctly formatted README file in YAML syntax for your Git repository, similar to the previous tasks:
-
 ```yaml
 ---
 # SMS Spam Detection Using Machine Learning
