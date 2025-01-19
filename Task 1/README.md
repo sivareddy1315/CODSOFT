@@ -56,4 +56,3 @@ Predicted Genre: Thriller
 
 ---
 
-This README format clearly explains the project, libraries used, the workflow, and provides a structured example of input and output for users to follow.
