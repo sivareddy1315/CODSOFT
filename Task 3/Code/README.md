@@ -84,4 +84,3 @@ SVM Prediction: Ham
 This project successfully implements an SMS Spam Detection system using machine learning techniques. It uses **Naive Bayes** and **SVM** for classification, achieving good results for detecting spam messages. The system can be further improved by using additional techniques like deep learning or fine-tuning hyperparameters for even better performance.
 ```
 
-This format should be compatible for use in a Git repository, with proper markdown structure. You can copy this directly to a `README.md` file and it will display correctly in GitHub or other platforms that support markdown.
