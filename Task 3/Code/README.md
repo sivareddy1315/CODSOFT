@@ -1,4 +1,4 @@
-```yaml
+
 ---
 # SMS Spam Detection Using Machine Learning
 
